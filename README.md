@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WashingtonYandun
-- 👀 I’m interested in AI, PYTHON, JS ,TS, WEB DEVELOPMENT - FRONTEND AND MOBILE APPS
-- 🌱 I’m currently learning PYTHON, JAVA, JS, HTML, CSS
-- 💞️ I’m looking to collaborate on ... (IDK)
+- 👀 I’m interested in AI, PYTHON, JS, CSS, WEB DEVELOPMENT - FRONTEND AND MOBILE APPS AND VIDEOGAMES
+- 🌱 I’m currently learning PYTHON, JAVA, JS, HTML, CSS , C#
+- 💞️ I’m looking to collaborate on all projects because in that way i learn more
 - 📫 How to reach me ...
 
 <!---
