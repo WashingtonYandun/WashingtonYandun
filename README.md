@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @WashingtonYandun aka WMYM.
-- 
+
 - 👀 I’m interested in:
 - AI 
 - WEB DEVELOPMENT
 - CHATBOTS
 - VIDEOGAMES
 - ROBOTICS
-- 
+
 - 🌱 I’m currently learning:
 - PYTHON, JAVA, JS, HTML, CSS , C#, SCALA, C, C++, POSTGRESQL, SQL SERVER
 - (i already worked with most of those technologies but i didn't master that habilities yet by the way am a "JUNIOR DEV")
