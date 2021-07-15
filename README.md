@@ -9,8 +9,8 @@
 - ROBOTICS
  
 ## 🌱 I’m currently learning:
-- PYTHON, JS, JAVA, HTML, CSS , C#, SCALA, C, C++, POSTGRESQL, SQL SERVER
-- (Already worked with most of those technologies but i didn't master that habilities yet...(Cause Junior Dev xd))
+- **PYTHON**, **JS**, JAVA, HTML, CSS , C#, SCALA, C, C++, **POSTGRESQL**, SQL SERVER
+- (Already worked with most of those technologies but i didn't master that habilities yet...**(Cause Junior Dev xd)**)
  
 ## 💞️ I’m looking to collaborate on...
 - all projects where i could help because that way i can learn more and improve in all aspects
