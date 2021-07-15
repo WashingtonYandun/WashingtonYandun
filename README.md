@@ -8,11 +8,11 @@
 - ROBOTICS
 - 
 - 🌱 I’m currently learning:
-- PYTHON, JAVA, JS, HTML, CSS , C#, SCALA, C, C++, POSTGRESQL, SQL SERVER
-- (i already worked with most of those technologies but i didn't master that habilities yet... by the way am a "JUNIOR DEV")
+PYTHON, JAVA, JS, HTML, CSS , C#, SCALA, C, C++, POSTGRESQL, SQL SERVER
+(i already worked with most of those technologies but i didn't master that habilities yet... by the way am a "JUNIOR DEV")
 - 
 - 💞️ I’m looking to collaborate on...
-- all projects where i could help because that way i can learn more and improve in all aspects
+all projects where i could help because that way i can learn more and improve in all aspects
 
 <!---
 WashingtonYandun/WashingtonYandun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
