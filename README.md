@@ -3,9 +3,9 @@
  
 ## 👀 I’m interested in:
 - AI 
-- WEB DEVELOPMENT - FRONTEND
+- WEB DEVELOPMENT - FRONTEND - CANVAS
 - CHATBOTS
-- VIDEOGAMES
+- VIDEOGAMES - 2D - 3D
 - ROBOTICS
  
 ## 🌱 I’m currently learning:
