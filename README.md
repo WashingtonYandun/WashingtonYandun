@@ -7,6 +7,7 @@
 - CHATBOTS
 - VIDEOGAMES - 2D - 3D
 - ROBOTICS
+- GENERATIVE ART
  
 ## 🌱 I’m currently learning:
 - **PYTHON**, **JS**, **JAVA**, **HTML**, **CSS** , C#, SCALA, C, **C++**, **POSTGRESQL**, SQL SERVER, MySQL
