@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @WashingtonYandun aka WMYM. ***"Junior Dev" - Self Learner***
-- Currently studying software engineering 
+- Currently studying software engineering
+- Improving myself day by day
  
 ## 👀 I’m interested in:
 - AI 
