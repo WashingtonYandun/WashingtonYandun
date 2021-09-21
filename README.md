@@ -21,6 +21,6 @@
 WashingtonYandun/WashingtonYandun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
 📫 How to reach me:
-- Mail: **washington.yandun06@gamil.com** 
-- WhatsApp: **(+593) 099 880 0720**
+--->
