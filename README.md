@@ -5,9 +5,9 @@
 ## 👀 I’m interested in:
 - AI 
 - WEB DEVELOPMENT - FRONTEND - CANVAS
-- CHATBOTS
 - VIDEOGAMES - 2D - 3D
 - ROBOTICS
+- BOTS
 - GENERATIVE ART
  
 ## 🌱 I’m currently learning:
