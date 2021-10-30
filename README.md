@@ -11,7 +11,7 @@
 - GENERATIVE ART
  
 ## 🌱 I’m currently learning:
-- **Python**, **Js**, **Java**, **HTML**, **CSS** , **C#**, **C++**, **Go**
+- **Python, Js, Java, HTML, CSS, C#, C++, Go**
 - (Already worked with all of those technologies but i didn't master that habilities yet...**(Cause Junior Dev xd**)
  
 ## 💞️ I’m looking to collaborate on...
