@@ -22,9 +22,10 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 ## 💞️ I’m looking to collaborate on...
 
-- all projects where i could help because that way i can learn more and improve in all aspects
+- All projects where i could help because that way i can learn more and improve in all aspects
 
 ## My GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandu)
