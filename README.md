@@ -28,4 +28,4 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandun)
