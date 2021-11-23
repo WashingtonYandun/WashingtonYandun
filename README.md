@@ -19,7 +19,7 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 ## 🌱 I’m currently learning:
 
-- **Python, Js, Java, HTML, CSS, C#, C++, Go, Node.js**
+- **Python, Js, Java, C#, Node.js, React.js**
 - (Already worked with all of those technologies but i didn't master that habilities yet...**(Cause Junior Dev xd...**)
 
 ## 💞️ I’m looking to collaborate on...
@@ -28,7 +28,7 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 ## My GitHub Stats:
 
-There are some of my stats, of the work i've done until now
+There are some of my stats, of the work i've done until now.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)
 
