@@ -2,7 +2,7 @@
 
 - Currently studying software engineering.
 - Improving myself day by day.
-- Learning at least one thing per day is my current goal.
+- Learning at least one thing per day is my current goal and write at least 25 lineas of code everyday.
 
 ## 👀 I’m interested in:
 Well. I love learning and programming. But These are some of my personal favorites.
