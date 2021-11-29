@@ -2,7 +2,11 @@
 
 - Currently studying software engineering.
 - Improving myself day by day.
-- Learning at least one thing per day is my current goal and write at least 25 lines of code everyday.
+- Learning one thing and write at least 25 lines of code everyday is my current goal. And I i work every single day for that goal.
+
+As u can see:
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun&theme=nord)
 
 ## 👀 I’m interested in:
 Well. I love learning and programming. But These are some of my personal favorites.
@@ -30,8 +34,6 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 There are some of my stats, of the work i've done until now.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)](https://github.com/WashingtonYandun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandun)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun&theme=nord)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandun)  
