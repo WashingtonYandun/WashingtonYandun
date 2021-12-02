@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WashingtonYandun aka WMYM. **"Self Learner"**
 
-- Currently studying software engineering.
+- Currently studying Software Engineering.
 - Improving myself day by day.
 - Learning one thing and write at least 25 lines of code everyday is my current goal. And I i work every single day for that goal.
 
@@ -23,8 +23,8 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 ## 🌱 I’m currently learning:
 
-- **Python, Js, Java, C#, Node.js, React.js**
-- (Already worked with all of those technologies but i didn't master that habilities yet...**(Cause Junior Dev xd...**)
+- **Python, Js, Java, C# .Net, Node.js, React.js, Mongo db**
+- (Already worked with all most of those technologies but i didn't master that habilities yet...**(Cause Junior Dev xd...**)
 
 ## 💞️ I’m looking to collaborate on...
 
@@ -32,8 +32,10 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 ## My GitHub Stats:
 
-There are some of my stats, of the work i've done until now.
+- There are some of my stats, of the work i've done until now.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)](https://github.com/WashingtonYandun)
+
+- Some of the languages I have worked.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandun)  
