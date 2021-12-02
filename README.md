@@ -34,8 +34,8 @@ Well. I love learning and programming. But These are some of my personal favorit
 
 - There are some of my stats, of the work i've done until now.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun&theme=nord)](https://github.com/WashingtonYandun)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonYandun)](https://github.com/WashingtonYandun)
 
 - Some of the languages I have worked.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandun)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact)](https://github.com/WashingtonYandun)  
