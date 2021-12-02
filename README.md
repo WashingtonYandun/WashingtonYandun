@@ -6,7 +6,7 @@
 
 As u can see:
 
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun&theme=nord)](https://github.com/WashingtonYandun)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun)](https://github.com/WashingtonYandun)
 
 ## 👀 I’m interested in:
 Well. I love learning and programming. But These are some of my personal favorites.
