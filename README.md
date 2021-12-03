@@ -2,7 +2,7 @@
 
 - Currently studying Software Engineering.
 - Improving myself day by day.
-- Learning one thing and write at least 30 lines of code everyday is my current goal. And I i work every single day for that goal.
+- Learning one thing and write at least 35 lines of code everyday is my current goal. And I i work every single day for that goal.
 
 As u can see:
 
