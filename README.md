@@ -24,7 +24,7 @@ Well. I love learning and programming. But These are some of my personal favorit
 ## 🌱 I’m currently learning:
 
 - **Python, Js, Java, C# .Net, Node.js, React.js, Mongo db**
-- (Already worked with all most of those technologies but i didn't master that habilities yet...**(Cause Junior Dev xd...**)
+- (Already worked with all most of those technologies but i didn't master that habilities yet...**(Cause Junior Dev...**)
 
 ## 💞️ I’m looking to collaborate on...
 
