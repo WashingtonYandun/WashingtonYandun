@@ -6,13 +6,13 @@
 
 ## 👀 I’m interested in:
 
-- WEB DEVELOPMENT - HTML, CSS , Js
+- WEB DEVELOPMENT - HTML, CSS , JavaScript
 - Python, Java, C#
 
 <!---
 ## 🌱 I’m currently learning:
 
-- **Python, Js, Java, C# .Net, Node.js, React.js, Mongo db**
+- **Python, JavaScript, Java, C# .Net, Node.js, React.js, Mongo db**
 - (Already worked with all most of those technologies but i didn't master that habilities yet...* Cause Junior Dev
 
 
