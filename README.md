@@ -19,7 +19,7 @@
 ## 💞️ I’m looking to collaborate on... all projects i could apport something.
 -->
 
-## My GitHub Stats:
+## 💞️ Languages I worked on:
 
 - Some of the languages I have worked.
 
