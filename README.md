@@ -23,4 +23,8 @@
 
 - Some of the languages I have worked.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact)](https://github.com/WashingtonYandun)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact)](https://github.com/WashingtonYandun)
+
+<!---
+[![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=WashingtonYandun.WashingtonYandun&left_color=white&right_color=orange)](https://github.com/WashingtonYandun)
+-->
