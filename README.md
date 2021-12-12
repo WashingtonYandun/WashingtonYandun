@@ -2,6 +2,14 @@
 
 - Learning one thing and write at least 35 lines of code everyday is my current goal. And I i work every single day for that goal.
 
+```JavaScript
+const person = {
+  name: "Washington Yandun",
+  motivation: true,
+  devLevel: "Junior?"
+}
+```
+
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun)](https://github.com/WashingtonYandun)
 
 ## 👀 I’m interested in:
