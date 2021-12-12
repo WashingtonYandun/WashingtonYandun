@@ -2,6 +2,13 @@
 
 - Learning one thing and write at least 35 lines of code everyday is my current goal. And I i work every single day for that goal.
 
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun)](https://github.com/WashingtonYandun)
+
+## 👀 I’m interested in:
+
+- WEB DEVELOPMENT - HTML, CSS , JavaScript
+- Python, Java, C#
+
 ```JavaScript
 const person = {
   name: "Washington Yandun",
@@ -9,13 +16,6 @@ const person = {
   devLevel: "Junior?"
 }
 ```
-
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun)](https://github.com/WashingtonYandun)
-
-## 👀 I’m interested in:
-
-- WEB DEVELOPMENT - HTML, CSS , JavaScript
-- Python, Java, C#
 
 <!---
 ## 🌱 I’m currently learning:
