@@ -6,8 +6,10 @@
 
 ## 👀 I’m interested in:
 
-- WEB DEVELOPMENT - HTML, CSS , JavaScript
-- Python, Java, C#
+- WEB AND MOBILE DEVELOPMENT
+- ARTIFICIAL INTELLIGENCE
+- COMPETITIVE PROGRAMMING
+- DATA SCIENCE
 
 ```JavaScript
 const person = {
