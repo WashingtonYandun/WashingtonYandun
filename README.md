@@ -2,7 +2,7 @@
 
 - Learning one thing and write at least 50 lines of code everyday is my current goal. And I i work every single day for that goal.
 
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun&theme=nord)](https://github.com/WashingtonYandun)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://github.com/WashingtonYandun)
 
 ## 👀 I’m interested in:
 
@@ -33,7 +33,7 @@ const person = {
 
 - Some of the languages I have worked.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=nord)](https://github.com/WashingtonYandun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=onedark&hide_border=true)](https://github.com/WashingtonYandun)
 
 <!---
 [![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=WashingtonYandun.WashingtonYandun&left_color=white&right_color=orange)](https://github.com/WashingtonYandun)
