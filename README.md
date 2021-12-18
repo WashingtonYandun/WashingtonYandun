@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WashingtonYandun aka WMYM.
 
-- Learning one thing and write at least 45 lines of code everyday is my current goal. And I i work every single day for that goal.
+- Learning one thing and write at least 50 lines of code everyday is my current goal. And I i work every single day for that goal.
 
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=WashingtonYandun&theme=nord)](https://github.com/WashingtonYandun)
 
