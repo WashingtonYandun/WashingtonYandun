@@ -3,16 +3,6 @@
 - Learning one thing and write at least **90** lines of code everyday is my current goal. And I i work every single day for that goal.
 > I know its better cuality than cantity but is a good start
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://github.com/WashingtonYandun)
-
-## 👀 I’m interested in:
-
-- WEB AND MOBILE DEVELOPMENT
-- ARTIFICIAL INTELLIGENCE
-- COMPETITIVE PROGRAMMING
-- DATA SCIENCE
-- HACKING
-
 ```JavaScript
 const person = {
   name: "Washington Yandun",
@@ -26,6 +16,16 @@ const person = {
   }
 }
 ```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://github.com/WashingtonYandun)
+
+## 👀 I’m interested in:
+
+- WEB AND MOBILE DEVELOPMENT
+- ARTIFICIAL INTELLIGENCE
+- COMPETITIVE PROGRAMMING
+- DATA SCIENCE
+- HACKING
 
 <!---
 ## 🌱 I’m currently learning:
