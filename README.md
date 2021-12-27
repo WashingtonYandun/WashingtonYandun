@@ -35,7 +35,7 @@ const person = {
 
 
 ## 💞️ I’m looking to collaborate on... all projects i could apport something.
--->
+
 
 ## 💞️ Languages I worked on:
 
