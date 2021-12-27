@@ -30,9 +30,10 @@ const person = {
 ### My Stack:
 
 <p align="start">
-  <img src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript%20-34ACDB.svg?&style=for-the-badge&logo=js&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img alt="HTML" src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-34ACDB.svg?&style=for-the-badge&logo=js&logoColor=fff"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
 </p>
 
 
