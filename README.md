@@ -27,6 +27,15 @@ const person = {
 - DATA SCIENCE
 - HACKING
 
+### My Stack:
+
+<p align="start">
+  <img src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript%20-34ACDB.svg?&style=for-the-badge&logo=js&logoColor=white"/>
+</p>
+
+
 <!---
 ## 🌱 I’m currently learning:
 
