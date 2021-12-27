@@ -27,14 +27,17 @@ const person = {
 - DATA SCIENCE
 - HACKING
 
-### My Stack:
+## 🌱 My Current Stack:
 
-<p align="start">
+<a align="start" href="https://github.com/WashingtonYandun">
   <img alt="CSS" src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=fff"/>
   <img alt="HTML" src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=fff"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-34ACDB.svg?&style=for-the-badge&logo=js&logoColor=fff"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F3DB4B.svg?&style=for-the-badge&logo=javascript&logoColor=222"/>
+  <img alt="MongoDb" src="https://img.shields.io/badge/mongo%20-73B55E.svg?&style=for-the-badge&logo=mongodb&logoColor=fff"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
-</p>
+  <img alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
+</a>
 
 
 <!---
