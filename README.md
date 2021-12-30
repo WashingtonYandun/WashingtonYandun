@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WashingtonYandun aka WMYM.
 
-- Learning one thing and write at least **100** lines of code everyday is my current goal. And I i work every single day for that goal.
+- Learning one thing and write at least **105** lines of code everyday is my current goal. And I i work every single day for that goal.
 > I know its better cuality than cantity but is a good start
 
 ```JavaScript
@@ -21,8 +21,8 @@ const person = {
 
 ## 👀 I’m interested in:
 
-- WEB AND MOBILE DEVELOPMENT
-- ARTIFICIAL INTELLIGENCE
+- WEB / MOBILE DEVELOPMENT
+- ARTIFICIAL INTELLIGENCE / ML /DL
 - COMPETITIVE PROGRAMMING
 - DATA SCIENCE
 - HACKING
