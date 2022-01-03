@@ -34,6 +34,7 @@ const person = {
   <img alt="HTML" src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=fff"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F3DB4B.svg?&style=for-the-badge&logo=javascript&logoColor=222"/>
   <img alt="MongoDb" src="https://img.shields.io/badge/mongo%20-73B55E.svg?&style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node%20-85CC2D.svg?&style=for-the-badge&logo=node.js&logoColor=fff"/>
   <img alt="Express" src="https://img.shields.io/badge/express%20-141414.svg?&style=for-the-badge&logo=express&logoColor=fff"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-E95137.svg?&style=for-the-badge&logo=git&logoColor=fff"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
