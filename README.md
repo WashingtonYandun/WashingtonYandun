@@ -1,11 +1,12 @@
 # 👋 Hi, I’m @WashingtonYandun aka WMYM.
 
-- Learning one thing and write at least **130** lines of code everyday is my current goal. And I i work every single day for that goal.
+- Learning one thing and write at least **135** lines of code everyday is my current goal. And I i work every single day for that goal.
 > I know its better cuality than cantity but is a good start
 
 ```JavaScript
 const person = {
   name: "Washington Yandun",
+  nickname: "wmym",
   motivation: true,
   devLevel: "Junior?",
   greeting(){
