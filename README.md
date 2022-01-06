@@ -13,7 +13,7 @@ const person = {
     console.log(this.name + " says hi c:")
   },
   slogan(){
-    console.log("Work until die!")
+    console.log("Work for success")
   }
 }
 ```
