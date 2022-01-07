@@ -3,6 +3,10 @@
 - Learning one thing and write at least **140** lines of code everyday is my current goal. And I i work every single day for that goal.
 > I know its better cuality than cantity but is a good start
 
+<!---
+I will increment the lines till 200
+-->
+
 ```JavaScript
 const person = {
   name: "Washington Yandun",
@@ -13,7 +17,7 @@ const person = {
     console.log(this.name + " says hi c:")
   },
   slogan(){
-    console.log("Work for success")
+    console.log("Work till collapse")
   }
 }
 ```
