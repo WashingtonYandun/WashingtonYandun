@@ -66,4 +66,8 @@ const person = {
 
 <!---
 [![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=WashingtonYandun.WashingtonYandun&left_color=white&right_color=orange)](https://github.com/WashingtonYandun)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=WashingtonYandun&row=1&margin-w=10&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
+
