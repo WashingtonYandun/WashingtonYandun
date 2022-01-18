@@ -12,7 +12,7 @@ const person = {
   name: "Washington Yandun",
   nickname: "wmym",
   motivation: true,
-  devLevel: "Junior?",
+  devLevel: "?",
   greeting(){
     console.log(this.name + " says hi c:")
   },
