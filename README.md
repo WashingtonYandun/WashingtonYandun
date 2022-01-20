@@ -1,10 +1,11 @@
 # 👋 Hi, I’m @WashingtonYandun aka WMYM.
 
-- Learning one thing and write at least **195** lines of code everyday is my current goal. And I i work every single day for that goal.
+- Learning one thing and write at least **200** lines of code everyday is my current goal. And I i work every single day for that goal.
 > I know its better cuality than cantity but is a good start
 
 <!---
-I will increment the lines till 200
+I will increment the lines till 200 20/01/2022
+i wil increase this soon but now i want to get confortable with mi workflow
 -->
 
 ```JavaScript
