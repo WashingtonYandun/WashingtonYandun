@@ -23,8 +23,9 @@ const person = {
 }
 ```
 
-<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://github.com/WashingtonYandun)
+
+<!--
 
 [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WashingtonYandun&theme=github_dark)](https://github.com/WashingtonYandun)
 
