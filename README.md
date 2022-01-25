@@ -8,6 +8,7 @@ I will increment the lines till 200 20/01/2022
 i wil increase this soon but now i want to get confortable with mi workflow
 -->
 
+<!---
 ```JavaScript
 const person = {
   name: "Washington Yandun",
@@ -22,14 +23,15 @@ const person = {
   }
 }
 ```
+-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://github.com/WashingtonYandun)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/WashingtonYandun)
+
+[![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=WashingtonYandun&theme=react-dark&hide_border=true)](https://github.com/WashingtonYandun)
+
 
 <!--
-
 [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WashingtonYandun&theme=github_dark)](https://github.com/WashingtonYandun)
-
-[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=WashingtonYandun&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&)](https://github.com/WashingtonYandun)
 -->
 
 ## 👀 I’m interested in:
@@ -54,7 +56,6 @@ const person = {
   <img alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/>
   <img alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
 </a>
-
 
 <!---
 ## 🌱 I’m currently learning:
