@@ -27,9 +27,6 @@ const person = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/WashingtonYandun)
 
-[![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=WashingtonYandun&theme=react-dark&hide_border=true)](https://github.com/WashingtonYandun)
-
-
 <!--
 [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WashingtonYandun&theme=github_dark)](https://github.com/WashingtonYandun)
 -->
