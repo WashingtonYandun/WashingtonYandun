@@ -4,11 +4,6 @@
 > I know its better cuality than cantity but is a good start
 
 <!---
-I will increment the lines till 200 20/01/2022
-i wil increase this soon but now i want to get confortable with mi workflow
--->
-
-<!---
 ```JavaScript
 const person = {
   name: "Washington Yandun",
@@ -23,8 +18,8 @@ const person = {
   }
 }
 ```
--->
 
+-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/WashingtonYandun)
 
 <!--
@@ -57,23 +52,12 @@ const person = {
 <!---
 ## 🌱 I’m currently learning:
 
-- **Python, JavaScript, Java, C# .Net, Node.js, React.js, Mongo db**
-- (Already worked with all most of those technologies but i didn't master that habilities yet...* Cause Junior Dev
-
-
 ## 💞️ I’m looking to collaborate on... all projects i could apport something.
-
 
 ## 💞️ Languages I worked on:
 
 - Some of the languages I have worked.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonYandun&layout=compact&theme=onedark&hide_border=true)](https://github.com/WashingtonYandun)
-
 <!---
-[![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=WashingtonYandun.WashingtonYandun&left_color=white&right_color=orange)](https://github.com/WashingtonYandun)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=WashingtonYandun&row=1&margin-w=10&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-
-
