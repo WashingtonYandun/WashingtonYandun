@@ -48,6 +48,8 @@ const person = {
   <img alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
 </a>
 
+## 🌱 More of my work: [My Small Projects](https://github.com/WMYM-Experimental)
+
 <!---
 ## 🌱 I’m currently learning:
 
