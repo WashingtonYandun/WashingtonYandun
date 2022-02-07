@@ -34,6 +34,7 @@ const person = {
 - DATA SCIENCE
 - HACKING
 
+<!---
 ## 🌱 My Current Stack:
 
 <a align="start" href="https://github.com/WashingtonYandun">
@@ -48,6 +49,7 @@ const person = {
   <img alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/>
   <img alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
 </a>
+--->
 
 ## 🌱 More of my work:
 - [My Small Projects](https://github.com/WMYM-Experimental)
