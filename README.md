@@ -52,7 +52,7 @@ const person = {
 --->
 
 ## 🌱 More of my work:
-- [My Small Projects](https://github.com/WMYM-Experimental)
+- [My Small beginner Projects](https://github.com/WMYM-Experimental)
 
 <!---
 ## 🌱 I’m currently learning:
