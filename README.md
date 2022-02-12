@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @WashingtonYandun aka WMYM.
 
-- Learning one thing and write at least **200** lines of code everyday is my current goal and learn everything i can. And I i work every single day for that goal.
-> I know its better cuality than cantity but is a good start
+- Learning one thing everything i can day by day is my current goal. And I am working every single moment for that goal.
 
 <!---
 ```JavaScript
