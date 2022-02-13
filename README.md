@@ -2,28 +2,7 @@
 
 - Learning one thing everything i can day by day is my current goal. And I am working every single moment for that goal.
 
-<!---
-```JavaScript
-const person = {
-  name: "Washington Yandun",
-  nickname: "wmym",
-  motivation: true,
-  devLevel: "?",
-  greeting(){
-    console.log(this.name + " says hi c:")
-  },
-  slogan(){
-    console.log("Work till collapse")
-  }
-}
-```
--->
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/WashingtonYandun)
-
-<!---
-[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WashingtonYandun&theme=github_dark)](https://github.com/WashingtonYandun)
---->
 
 ## 👀 I’m interested in:
 
@@ -55,13 +34,9 @@ const person = {
 
 <!---
 ## 🌱 I’m currently learning:
-
 ## 💞️ I’m looking to collaborate on... all projects i could apport something.
-
 ## 💞️ Languages I worked on:
-
 - Some of the languages I have worked.
 
-<!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=WashingtonYandun&row=1&margin-w=10&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 -->
