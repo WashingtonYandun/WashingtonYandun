@@ -29,7 +29,7 @@
 </a>
 --->
 
-## 🌱 More of my work: (tiny "projects")
+## 🌱 More of my work: (tiny "repos", for fun)
 - [My Small beginner Projects](https://github.com/WMYM-Experimental)
 
 <!---
