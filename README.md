@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @WashingtonYandun aka WMYM.
+# 👋 Hi, I’m [@WashingtonYandun](https://github.com/WashingtonYandun) aka WMYM.
 
 - Learning everything i can day by day is my current goal. **Am working every single moment for that goal.**
 
