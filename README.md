@@ -10,7 +10,7 @@
 - ARTIFICIAL INTELLIGENCE / ML /DL
 - COMPETITIVE PROGRAMMING / DSA
 - DATA SCIENCE
-- HACKING
+- HACKING / CYBERCECURTY
 
 <!---
 ## 🌱 My Current Stack:
@@ -29,14 +29,15 @@
 </a>
 --->
 
-## 🌱 More of my work: (tiny "repos", for fun)
+## 🌱 More of my work: ( repos for fun )
 - [My Small beginner Projects](https://github.com/WMYM-Experimental)
 
 <!---
 ## 🌱 I’m currently learning:
 ## 💞️ I’m looking to collaborate on... all projects i could apport something.
 ## 💞️ Languages I worked on:
-- Some of the languages I have worked.
+
+- Some of the technologies i have already worked.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WashingtonYandun&row=1&margin-w=10&no-bg=true&no-frame=true&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 -->
