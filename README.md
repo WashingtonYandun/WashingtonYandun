@@ -1,6 +1,7 @@
 # 👋 Hi, I’m [@WashingtonYandun](https://github.com/WashingtonYandun) aka WMYM.
 
-- Learning everything i can day by day is my currentane main goal. **Am working every single moment for that goal** ~(currently on vacations)~
+- Learning everything i can day by day is my currentane main goal. 
+- **Am working every single moment for that goal** ~(currently on vacations)~
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/WashingtonYandun)
 
