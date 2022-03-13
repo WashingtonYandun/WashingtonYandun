@@ -30,7 +30,7 @@
 </a>
 --->
 
-## 🌱 More of my wor _(repos for fun)_:
+## 🌱 More of my work _(repos for fun)_:
 - [My Small beginner Projects](https://github.com/WMYM-Experimental)
 
 <!---
