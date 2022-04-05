@@ -19,6 +19,9 @@
 
 - ETHICAL HACKING / CYBERCECURTY <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
 
+## 🌱 More of my work _(repos for fun)_:
+- **[My Small beginner Projects](https://github.com/WMYM-Experimental)**
+
 <!---
 ## 🌱 My Current Stack:
 <a align="start" href="https://github.com/WashingtonYandun">
@@ -34,9 +37,6 @@
   <img alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
 </a>
 --->
-
-## 🌱 More of my work _(repos for fun)_:
-- [My Small beginner Projects](https://github.com/WMYM-Experimental)
 
 <!---
 ## 🌱 I’m currently learning:
