@@ -1,18 +1,21 @@
-<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun <a/> aka ~(WMYM)~ 💞️ </h1><br>
-
+<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun <a/> aka ~(WMYM)~ 💞️ </h1>
+    
 <p>
     <ul>
         <li> Learning everything i can day by day is my currentane main goal. </li>
         <li> Working every single moment of my life for that goal. </li>
     </ul>
 </p>
-  
 
-<img style="display:block; margin-left: auto; margin-right:auto;" src="https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Github Streak WY"/>
+</p>
 
+<!---
+TODO: change this to html
+--->
 
 ## 👀 I’m interested in:
-
 - WEB / MOBILE DEVELOPMENT <img align="center" alt="HTML" src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=fff"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F3DB4B.svg?&style=for-the-badge&logo=javascript&logoColor=222"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=fff"/>
@@ -28,6 +31,10 @@
 ## 🌱 More of my work _(repos for fun)_:
 - **[My Small beginner Projects](https://github.com/WMYM-Experimental)**
 
+
+<!---
+Images
+--->
 <!---
 ## 🌱 My Current Stack:
 <a align="start" href="https://github.com/WashingtonYandun">
