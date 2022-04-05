@@ -1,9 +1,15 @@
-# 👋 Hi, I’m [@WashingtonYandun](https://github.com/WashingtonYandun) aka _(WMYM)_.
+<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun <a/> aka ~(WMYM)~ 💞️ </h1><br>
 
-- Learning everything i can day by day is my currentane main goal.
-- **Working every single moment of my life for that goal.**
+<p>
+    <ul>
+        <li> Learning everything i can day by day is my currentane main goal. </li>
+        <li> Working every single moment of my life for that goal. </li>
+    </ul>
+</p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/WashingtonYandun)
+
+<img style="display:block; margin-left: auto; margin-right:auto;" src="https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+
 
 ## 👀 I’m interested in:
 
@@ -37,9 +43,3 @@
   <img alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
 </a>
 --->
-
-<!---
-## 🌱 I’m currently learning:
-## 💞️ I’m looking to collaborate on... all projects i could apport something.
-## 💞️ Languages I worked on:
--->
