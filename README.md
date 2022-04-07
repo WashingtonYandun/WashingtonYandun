@@ -1,4 +1,4 @@
-<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun <a/> aka ~(WMYM)~ 💞️ </h1>
+<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun <a/> aka ~(WMYM)~ </h1>
     
 <p>
     <ul>
