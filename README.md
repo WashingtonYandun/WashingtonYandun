@@ -28,7 +28,7 @@ TODO: change this to html
 
 - ETHICAL HACKING / CYBERCECURTY <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
 
-## 🌱 More of my work _(repos for fun)_:
+## 🌱 More of my work _(repos for fun - practice - learn)_:
 - **[My Small beginner Projects](https://github.com/WMYM-Experimental)**
 
 
