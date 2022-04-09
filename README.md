@@ -22,7 +22,7 @@ TODO: change this to html
   
 - ARTIFICIAL INTELLIGENCE / ML / DL <img alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
   
-- DATA STRUCTURES / ALGORITHMS <img align="center" alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/> <img align="center" alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
+- DATA STRUCTURES / ALGORITHMS <img align="center" alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/> <img align="center" alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/> <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
 
 - DATA SCIENCE/ VISUALIZATION / ANALYSIS <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
 
