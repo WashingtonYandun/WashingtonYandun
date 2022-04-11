@@ -1,9 +1,9 @@
-<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun <a/> aka ~(WMYM)~ </h1>
+<h1 align="center" > Hi 👋, I’m <a href="https://github.com/WashingtonYandun"> @WashingtonYandun </a> aka ~(WMYM)~ </h1>
     
 <p>
     <ul>
         <li> Learning everything i can day by day is my currentane main goal. </li>
-        <li> Working every single moment of my life for that goal. <b><a href="https://github.com/WMYM-Experimental"> WMYM-Experimental<a/><b/> </li>
+        <li> Working every single moment of my life for that goal. <b><a href="https://github.com/WMYM-Experimental"> WMYM-Experimental</a></b> </li>
     </ul>
 </p>
 
@@ -11,26 +11,38 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Github Streak WY"/>
 </p>
 
-<!---
-TODO: change this to html
---->
 
-## 👀 I’m interested in:
-- WEB / MOBILE DEVELOPMENT <img align="center" alt="HTML" src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=fff"/>
+<h2> 🌱 My main Technologies: </h2>
+<p>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/>
+  <img align="center" alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/html%20-E34F28.svg?&style=for-the-badge&logo=html5&logoColor=fff"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F3DB4B.svg?&style=for-the-badge&logo=javascript&logoColor=222"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=fff"/>
-  
-- ARTIFICIAL INTELLIGENCE / ML / DL <img alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
-  
-- DATA STRUCTURES / ALGORITHMS <img align="center" alt="Java" src="https://img.shields.io/badge/java%20-D32E31.svg?&style=for-the-badge&logo=java&logoColor=fff"/> <img align="center" alt="C++" src="https://img.shields.io/badge/c++%20-044B8A.svg?&style=for-the-badge&logo=cplusplus&logoColor=fff"/> <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=fff"/>  
+</p>
 
-- DATA SCIENCE/ VISUALIZATION / ANALYSIS <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
+    
+<h2> 👀 I’m interested in: </h2>
+<p>
+    <ul>
+        <li> WEB / MOBILE DEVELOPMENT </li>
+        <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
+        <li> WEB / MOBILE DEVELOPMENT </li>
+        <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
+        <li> WEB / MOBILE DEVELOPMENT </li>
+        <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
+    </ul>
+</p>
+      
 
-- ETHICAL HACKING / CYBERCECURTY <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
-
-## 🌱 More of my work _(repos for fun - practice - learn)_:
-- **[My Small beginner Projects](https://github.com/WMYM-Experimental)**
-
+<h2> 🌱 More of my work _(repos for fun - practice - learn)_: </h2>
+<p>
+    <ul>
+        <li> <a href="https://github.com/WMYM-Experimental"> WMYM-Experimental </a> </li>
+    </ul>
+</p>
 
 <!---
 Images
