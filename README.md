@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Github Streak WY"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=5AA5E7&fire=5AA5E7&currStreakNum=5AA5E7&border=5AA5E7&sideNums=5AA5E7&sideLabels=5AA5E7&ring=5AA5E7&currStreakLabel=5AA5E7" alt="Github Streak WY"/>
 </p>
-
 
 <h2> 🌱 My main Technologies: </h2>
 <p>
@@ -27,19 +26,16 @@
 <h2> 👀 I’m interested in: </h2>
 <p>
     <ul>
-        <li> WEB / MOBILE DEVELOPMENT </li>
+        <li> WEB DEVELOPMENT </li>
         <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
-        <li> WEB / MOBILE DEVELOPMENT </li>
-        <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
-        <li> WEB / MOBILE DEVELOPMENT </li>
-        <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
+        <li> DATA STRUCTURES AND ALFORITHMS </li>
     </ul>
 </p>
       
 
-<h2> 🌱 More of my work _(repos for fun - practice - learn)_: </h2>
+<h2> 🌱 More of my work (repos for fun - practice - learn): </h2>
 <p align="center" >
-    <a href="https://github.com/WMYM-Experimental"><image src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5FCFED&center=true&width=410&height=45&lines=WMYM+-+Experimental."></a>
+    <a align="center" href="https://github.com/WMYM-Experimental"><image src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5AA5E7&center=true&width=410&height=45&lines=WMYM+-+Experimental."></a>
 </p>
 
 <!---
