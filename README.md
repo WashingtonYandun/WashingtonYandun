@@ -39,7 +39,7 @@
 
 <h2> 🌱 More of my work _(repos for fun - practice - learn)_: </h2>
 <p align="center" >
-    <a href="https://github.com/WMYM-Experimental"><image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=WMYM+-+Experimental."></a>
+    <a href="https://github.com/WMYM-Experimental"><image src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5FCFED&center=true&width=410&height=45&lines=WMYM+-+Experimental."></a>
 </p>
 
 <!---
