@@ -11,6 +11,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=5AA5E7&fire=5AA5E7&currStreakNum=5AA5E7&border=5AA5E7&sideNums=5AA5E7&sideLabels=5AA5E7&ring=5AA5E7&currStreakLabel=5AA5E7" alt="Github Streak WY"/>
 </p>
 
+<!--
 <h2> 🌱 My main Technologies: </h2>
 <p>
   <img align="center" alt="Python" src="https://img.shields.io/badge/python%20-3572A4.svg?&style=for-the-badge&logo=python&logoColor=fff"/>
@@ -21,6 +22,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F3DB4B.svg?&style=for-the-badge&logo=javascript&logoColor=222"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/css%20-34ACDB.svg?&style=for-the-badge&logo=css3&logoColor=fff"/>  
 </p>
+-->
 
     
 <h2> 👀 I’m interested in: </h2>
