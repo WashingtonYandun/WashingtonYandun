@@ -16,7 +16,7 @@
     <ul>
         <li> WEB DEVELOPMENT </li>
         <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
-        <li> DATA STRUCTURES AND ALFORITHMS </li>
+        <li> DATA STRUCTURES AND ALGORITHMS </li>
     </ul>
 </p>
 
