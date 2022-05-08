@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=5AA5E7&fire=5AA5E7&currStreakNum=5AA5E7&border=5AA5E7&sideNums=5AA5E7&sideLabels=5AA5E7&ring=5AA5E7&currStreakLabel=5AA5E7" alt="Github Streak WY"/>
+  <img alt="Github Streak WY" src="http://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=5AA5E7&fire=5AA5E7&currStreakNum=5AA5E7&border=5AA5E7&sideNums=5AA5E7&sideLabels=5AA5E7&ring=5AA5E7&currStreakLabel=5AA5E7"/>
 </p>
     
 <h2> 👀 I'm Strongly interested in: </h2>
