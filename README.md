@@ -20,7 +20,7 @@
     </ul>
 </p>
 
-<h2> 🌱 More of my work (repos for fun - practice - learn): </h2>
+<h2> 🌱 More of my work (repos for fun, practice and learn): </h2>
 <br>
 <p align="center" >
     <a align="center" href="https://github.com/WMYM-Experimental"><image src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5AA5E7&center=true&width=410&height=45&lines=WMYM+-+Experimental."></a>
