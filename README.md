@@ -2,7 +2,7 @@
     
 <p>
     <ul>
-        <li> Learning everything as i can day by day is my current and main goal. 🌱 </li>
+        <li> Learning everything as i can day by day is my current and main goal.</li>
         <li> Working every single moment of my life for that goal: <b><a href="https://github.com/WMYM-Experimental"> WMYM-Experimental. 🌱 </a></b></li>
     </ul>
 </p>
