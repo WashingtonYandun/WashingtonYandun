@@ -15,10 +15,11 @@
 <h2> 👀 I am Strongly interested in: </h2>
 <p>
     <ul>
-        <li> WEB DEVELOPMENT </li>
         <li> ARTIFICIAL INTELLIGENCE / ML / DL </li>
+        <li> WEB DEVELOPMENT </li>
         <li> MOBILE DEVELOPMENT </li>
         <li> DATA STRUCTURES AND ALGORITHMS </li>
+        <li> MATH </li>
     </ul>
 </p>
 
