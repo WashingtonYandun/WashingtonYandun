@@ -19,7 +19,7 @@
         <li> WEB DEVELOPMENT </li>
         <li> MOBILE DEVELOPMENT </li>
         <li> DATA STRUCTURES AND ALGORITHMS </li>
-        <li> MATH </li>
+        <li> MATH AND FINANCES</li>
     </ul>
 </p>
 
