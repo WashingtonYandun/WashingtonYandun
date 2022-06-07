@@ -4,7 +4,7 @@
     <ul>
         <li> Learning everything as i can day by day is my current and main goal. </li>
         <li> Working every single moment of my life for that goal: <b><a href="https://github.com/WMYM-Experimental"> WMYM-Experimental. 🌱 </a></b></li>
-        <li> Currently working as an intern. </li>
+        <li> Currently working as an intern in project managment. </li>
     </ul>
 </p>
 
