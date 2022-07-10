@@ -16,10 +16,8 @@
 <p>
     <ul>
         <li> Artificial intelligence / ML. </li>
-        <li> Data structures and algorithms. </li>
         <li> Math & finances. </li>
         <li> Web development. </li>
-        <li> Mobile development. </li>
     </ul>
 </p>
 
