@@ -17,7 +17,7 @@
     <ul>
         <li> Artificial intelligence / ML. </li>
         <li> Math & finances. </li>
-        <li> Web Dev. </li>
+        <li> Web Development. </li>
     </ul>
 </p>
 
