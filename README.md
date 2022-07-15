@@ -15,7 +15,7 @@
 <h2> 👀 I am Strongly interested in: </h2>
 <p>
     <ul>
-        <li> Artificial intelligence / Machine Learning. </li>
+        <li> Machine Learning. </li>
         <li> Math & finances. </li>
         <li> Web Development. </li>
     </ul>
