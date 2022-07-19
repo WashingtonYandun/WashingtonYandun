@@ -16,7 +16,7 @@
 <p>
     <ul>
         <li> Machine Learning. </li>
-        <li> Math & finances. </li>
+        <li> Math & Finances. </li>
         <li> Web Development. </li>
     </ul>
 </p>
