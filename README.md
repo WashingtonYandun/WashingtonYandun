@@ -18,6 +18,7 @@
         <li> Machine Learning. </li>
         <li> Math & Finances. </li>
         <li> Web Development. </li>
+        <li> Hacking. </li>
     </ul>
 </p>
 
