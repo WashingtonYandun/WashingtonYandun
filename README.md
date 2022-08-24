@@ -17,7 +17,7 @@
     <ul>
         <li> Machine Learning. </li>
         <li> Math & Finances. </li>
-        <li> Hacking. </li>
+        <li> Hacking & Cibersecurity. </li>
     </ul>
 </p>
 
