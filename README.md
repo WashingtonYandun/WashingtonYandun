@@ -18,6 +18,7 @@
         <li> Machine Learning. </li>
         <li> Math & Finances. </li>
         <li> Hacking & Cibersecurity. </li>
+        <li> Data Analysis. </li>
     </ul>
 </p>
 
