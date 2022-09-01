@@ -19,6 +19,7 @@
         <li> Math & Finances. </li>
         <li> Hacking & Cibersecurity. </li>
         <li> Data Analysis. </li>
+        <li> Genetic Algorithms. </li>
     </ul>
 </p>
 
