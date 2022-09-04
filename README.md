@@ -1,4 +1,4 @@
-<h1 align="center" > Hey you there 👋, I am <a href="https://washingtonyandun.github.io/wy-portfolio/"> @WashingtonYandun </a></h1>
+<h1 align="center" > Hey there 👋, I am <a href="https://washingtonyandun.github.io/wy-portfolio/"> @WashingtonYandun </a></h1>
     
 <p>
     <ul>
