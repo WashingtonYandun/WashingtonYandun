@@ -4,7 +4,7 @@
     <ul>
         <li> My personal web portfolio<b><a href="https://washingtonyandun.github.io/wy-portfolio/" > WYandun. </a></b> (not finished yet)  </li>
         <li> Learning everything as I can day by day is my main goal. </li>
-        <li> Working every single moment of my life for that goal: <b><a href="https://github.com/WMYM-Experimental"> WMYM-Experimental. 🌱 </a></b></li>
+        <li> Working every single moment of my life for that goal - <b><a href="https://github.com/WMYM-Experimental"> WMYM-Experimental. 🌱 </a></b></li>
     </ul>
 </p>
 
