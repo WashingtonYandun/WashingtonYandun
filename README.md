@@ -18,7 +18,8 @@
     <ul>
         <li> Machine Learning. </li>
         <li> Math & Finances. </li>
-        <li> Hacking & Cibersecurity. </li>
+        <li> Hacking & Security Information. </li>
+        <li> Project Managment. </li>
         <li> Genetic Algorithms. </li>
     </ul>
 </p>
