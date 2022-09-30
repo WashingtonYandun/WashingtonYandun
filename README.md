@@ -5,7 +5,7 @@
         <li> My personal web portfolio<b><a href="https://washingtonyandun.github.io/wy-portfolio/" > wy-portfolio </a></b> (am still working on it). </li>
         <li> Learning everything as I can day by day is my main goal: <a href="https://github.com/WMYM-Experimental">My bucket of repos</a></li>
         <li> Working every single moment of my life for that goal 🌱 </li>
-        <li> Native spanish speaker but level in english but just code in english </li>
+        <li> Native spanish speaker but B2 level in english and code only in english </li>
     </ul>
 </p>
 
