@@ -16,11 +16,10 @@
 <h2> 👀 I am strongly interested in: </h2>
 <p>
     <ul>
-        <li> Machine Learning. </li>
+        <li> Machine learning & Deep learning. </li>
         <li> Math & Finances. </li>
-        <li> Hacking & Security Information. </li>
-        <li> Project Managment. </li>
-        <li> Genetic Algorithms. </li>
+        <li> Hacking & Security information. </li>
+        <li> Project managment. </li>
     </ul>
 </p>
 
