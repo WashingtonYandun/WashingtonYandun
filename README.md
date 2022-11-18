@@ -11,8 +11,8 @@
 👀 I am strongly interested in:
 -------------------------------
 
--   Machine learning & Deep learning.
--   Math & Finances.
+-   Machine learning.
+-   Finances.
 -   Project managment.
 
 🌱 More of my work (repos for fun and practice)
