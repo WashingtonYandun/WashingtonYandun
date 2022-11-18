@@ -13,7 +13,6 @@
 
 -   Machine learning & Deep learning.
 -   Math & Finances.
--   Hacking & Security information.
 -   Project managment.
 
 🌱 More of my work (repos for fun and practice)
