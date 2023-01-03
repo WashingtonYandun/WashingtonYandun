@@ -1,6 +1,6 @@
 <h1 align="center" > Hey there! 👋, I'm <a href="https://washingtonyandun.github.io/wy-portfolio/"> @WashingtonYandun </a></h1>
 
--   My personal web portfolio **[wy-portfolio](https://washingtonyandun.github.io/wy-portfolio/)** (am working on it).
+-   My personal web portfolio **[wy-portfolio](https://washingtonyandun.github.io/wy-portfolio/)**.
 -   Learning everything as I can day by day is my main goal: [My bucket of repos](https://github.com/WMYM-Experimental)
 -   Working every single moment of my life for that goal 🌱
 
