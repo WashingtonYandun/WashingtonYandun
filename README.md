@@ -4,6 +4,8 @@
 -   Learning everything as I can day by day is my main goal: [My bucket of repos](https://github.com/WMYM-Experimental).
 -   Working every single moment of my life for that goal 🌱.
 
+[![](https://visitcount.itsvg.in/api?id=WashingtonYandun&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <p align="center">
   <img alt="Github Streak of @WashingtonYandun" src="http://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=5AA5E7&fire=5AA5E7&currStreakNum=5AA5E7&border=5AA5E7&sideNums=5AA5E7&sideLabels=5AA5E7&ring=5AA5E7&currStreakLabel=5AA5E7"/>
 </p>
