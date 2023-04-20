@@ -16,6 +16,7 @@
 -   Machine learning.
 -   Finances.
 -   Project managment.
+-   Math
 
 🌱 More of my work (repos for fun and practice)
 -----------------------------------------------
