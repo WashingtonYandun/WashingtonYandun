@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on my personal web portfolio: [wy-portfolio](https://washingtonyandun.github.io/wy-portfolio/).
 - 🌱 My everyday goal is to learn as much as I can. Check out my collection of repositories: [My bucket of repos](https://github.com/WMYM-Experimental).
 - 👯 I'm open to collaborations and projects in the fields of machine learning, finance, math, and modeling and simulation.
-- 📫 You can reach me through my website or by connecting with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/washington-yandun/).
+- 📫 You can reach me through my website or by connecting with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/washington-yandun-3a95b2226).
 
 <p align="center">
   <img alt="Profile Views" src="https://visitcount.itsvg.in/api?id=WashingtonYandun&label=Profile%20Views&color=0&icon=5&pretty=true"/>
