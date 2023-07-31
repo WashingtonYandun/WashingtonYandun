@@ -28,4 +28,4 @@
     <a href="https://github.com/WMYM-Experimental"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5AA5E7&center=true&width=410&height=45&lines=WMYM+-+Experimental."/></a>
 </p>
 
-Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me. Let's connect and create something together!
+Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
