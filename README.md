@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Washington Yandun</h1>
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies. Feel free to check out my repositories.</p>
+<p align="center">Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies.</p>
 
 - 🔭 I'm currently working on my personal web portfolio: [wy-portfolio](https://washingtonyandun.github.io/wy-portfolio/).
 - 🌱 My everyday goal is to learn as much as I can. Check out my collection of repositories: [My bucket of repos](https://github.com/WMYM-Experimental).
