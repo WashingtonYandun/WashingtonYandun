@@ -18,8 +18,8 @@
 - 🤖 Machine learning.
 - 💰 Finances.
 - 🧮 Math.
-- 🎯 Models and Simulation.
-- 🎯 Fullstack web development.
+- 🎯 Modeling and Simulation.
+- 🎯 Fullstack web development Dotnet.
 
 🌱 More of my work (repos for fun):
 ---
