@@ -2,10 +2,8 @@
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies.</p>
 
-- 🔭 I'm currently working on my personal web portfolio: [wy-portfolio](https://washingtonyandun.github.io/wy-portfolio/).
-- 🌱 My everyday goal is to learn as much as I can.
-- 👯 I'm open to collaborations and projects in any field.
-- 📫 You can reach me through my website or by connecting with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/washington-yandun-3a95b2226).
+<p align="center">🌱 My everyday goal is to learn as much as I can.</p>
+
 <br>
 
 <p align="center">
