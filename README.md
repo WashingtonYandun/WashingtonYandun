@@ -1,10 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Washington Yandun</h1>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=WashingtonYandun&label=Sap%40s&color=12&icon=5&pretty=true" />
-  </a>
-</p>
 <p align="center">Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies.</p>
 
 <p align="center">🌱 My everyday goal is to learn as much as I can.</p>
