@@ -17,7 +17,7 @@
 - 💰 Finances.
 - 🧮 Math.
 - 🎯 Modeling and Simulation.
-- 🎯 Fullstack web development.
+- 🎯 Software development.
 
 🌱 More of my work (repos for fun):
 ---
