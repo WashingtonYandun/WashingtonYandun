@@ -20,7 +20,9 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/WMYM-Experimental"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5AA5E7&center=true&width=410&height=45&lines=WMYM+-+Experimental."/></a>
+    <a href="https://github.com/WMYM-Experimental">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=5AA5E7&center=true&width=410&height=45&lines=WMYM+-+Experimental."/>
+    </a>
 </p>
 
 PD. Check out my fun pourpose repositories: [My bucket of repos](https://github.com/WMYM-Experimental).
