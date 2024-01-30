@@ -23,4 +23,4 @@
     </a>
 </p>
 
-PD. Check out my fun pourpose repositories: [My bucket of repos](https://github.com/WMYM-Experimental).
+PD. Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
