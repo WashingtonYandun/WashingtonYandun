@@ -18,7 +18,7 @@
 ---
 
 <p align="center" width="500" height="300">
-    <a href="https://github.com/WMYM-Experimental">
+    <a href="https://gitstatswy.onrender.com/user/washingtonyandun">
       <img width="500" height="300" src="https://gitstatswy.onrender.com/user/washingtonyandun"/>
     </a>
 </p>
