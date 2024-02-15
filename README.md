@@ -14,12 +14,12 @@
 - 🧮 Math.
 - 🎯 Modeling and Simulation.
 
-🌱 More of my work (repos for fun):
+🌱 More of my work and stats (repos for fun):
 ---
 
-<p align="center" width="500" height="300">
+<p align="center">
     <a href="https://gitstatswy.onrender.com/user/washingtonyandun">
-      <img width="500" height="300" src="https://gitstatswy.onrender.com/user/washingtonyandun"/>
+      <img width="500" height="300" src="https://github-stats-wy.vercel.app/user/washingtonyandun"/>
     </a>
 </p>
 
