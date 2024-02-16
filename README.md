@@ -14,13 +14,16 @@
 - 🧮 Math.
 - 🎯 Modeling and Simulation.
 
-🌱 More of my work and stats (repos for fun):
+🌱 My Stats (I made the api for my readme) 
 ---
 
 <p align="center">
     <a href="https://gitstatswy.onrender.com/user/washingtonyandun">
-      <img width="500" height="300" src="https://github-stats-wy.vercel.app/user/washingtonyandun"/>
+      <img src="https://github-stats-wy.vercel.app/user/washingtonyandun"/>
     </a>
 </p>
+
+👀 More of my work and stats (repos for fun):
+---
 
 PD. Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
