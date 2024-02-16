@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-    <a href="https://gitstatswy.onrender.com/user/washingtonyandun">
+    <a href="https://github-stats-wy.vercel.app/user/washingtonyandun/bar">
       <img src="https://github-stats-wy.vercel.app/user/washingtonyandun/bar"/>
     </a>
 </p>
