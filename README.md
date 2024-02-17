@@ -18,8 +18,8 @@
 ---
 
 <p align="center">
-    <a href="https://github-stats-wy.vercel.app/user/washingtonyandun/bar">
-      <img src="https://github-stats-wy.vercel.app/user/washingtonyandun/bar"/>
+    <a href="https://github-stats-wy.vercel.app/langs/washingtonyandun/bar">
+      <img src="https://github-stats-wy.vercel.app/langs/washingtonyandun/bar"/>
     </a>
 </p>
 
