@@ -26,4 +26,10 @@
 👀 More of my work and stats (repos for fun):
 ---
 
-PD. Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
+Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
+
+<p align="center">
+    <a href="https://github-stats-wy.vercel.app/langs/WMYM-Experimental/donut">
+      <img src="https://github-stats-wy.vercel.app/langs/WMYM-Experimental/donut"/>
+    </a>
+</p>
