@@ -29,7 +29,7 @@
 Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
 
 <p align="center">
-    <a href="https://github-stats-wy.vercel.app/langs/WMYM-Experimental/donut">
+    <a href="https://github.com/WMYM-Experimental">
       <img src="https://github-stats-wy.vercel.app/langs/WMYM-Experimental/donut"/>
     </a>
 </p>
