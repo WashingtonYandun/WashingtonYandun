@@ -23,7 +23,7 @@
     </a>
 </p>
 
-👀 More of my work and stats (repos for fun):
+👀 More of my work and stats (repos for fun)
 ---
 
 Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
