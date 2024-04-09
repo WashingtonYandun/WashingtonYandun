@@ -2,10 +2,6 @@
 <p align="center">Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies.</p>
 <p align="center">🌱 My everyday goal is to learn as much as I can.</p>
 
-<p align="center">
-  <img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=WashingtonYandun"/>
-</p>
-
 👀 I am strongly interested in:
 ---
 
