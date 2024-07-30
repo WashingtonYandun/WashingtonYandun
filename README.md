@@ -5,12 +5,12 @@
 👀 I am strongly interested in:
 ---
 
-- 🤖 Machine learning.
+- 🤖 Artificial intelligence
+- 🎯 Modeling and simulation.
 - 💰 Finances.
 - 🧮 Math.
-- 🎯 Modeling and Simulation.
 
-🌱 My Stats (I made the api for my readme) 
+🌱 My Stats (I made the api) 
 ---
 
 <p align="center">
@@ -22,4 +22,4 @@
 👀 More of my work and stats (repos for fun)
 ---
 
-Check out my fun pourpose org (repos): [My can of repos](https://github.com/WMYM-Experimental).
+Check out my fun pourpose org (repos): [My bucket of repos](https://github.com/WMYM-Experimental).
