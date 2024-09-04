@@ -10,7 +10,7 @@
 - 💰 Finances.
 - 🧮 Math.
 
-🌱 My Stats (I made the api) 
+🌱 My Stats (I made this Api and you can use it for your own GH profile too) 
 ---
 
 <p align="center">
