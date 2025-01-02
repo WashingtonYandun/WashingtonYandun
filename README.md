@@ -5,7 +5,7 @@
 👀 I am strongly interested in:
 ---
 
-- 🤖 Artificial intelligence
+- 🤖 Artificial intelligence (LLMs, GAN, Mamba)
 - 🎯 Modeling and simulation.
 - 💰 Finances.
 - 🧮 Math.
