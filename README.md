@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Washington Yandun</h1>
+<h1 align="center">Hey there! 👋 I'm Washington Yandún</h1>
 <p align="center">Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies.</p>
 <p align="center">🌱 My everyday goal is to learn as much as I can.</p>
 
