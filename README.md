@@ -11,7 +11,7 @@
 - 🇪🇨 From Quito, Ecuador.
 - 💻 Software Engineer & AI Specialist.
 - 🧠 Founder & Technical Lead at [WySofia](https://wysofia.com) — building intelligent systems for a better world.
-- 🎓 Finalist of **TCS CodeVita 12** (Top 17 worldwide, first Ecuadorian finalist).
+- 🎓 Finalist of **TCS CodeVita 12** (Top 17 worldwide, first Ecuadorian finalist in a world programming final of any kind ever).
 - 🚀 Currently exploring **AI Agents**, **LLMs**, and **Generative Systems**.
 
 ---
