@@ -8,7 +8,7 @@
 
 ### 👀 About Me
 
-- 🇪🇨 From Quito, Ecuador.
+- 🇪🇨 From Latacunga, Cotopaxi, Ecuador. But, I currently live in Quito.
 - 💻 Software Engineer & AI Specialist.
 - 🧠 Founder & Technical Lead at [WySofia](https://wysofia.com) — building intelligent systems for a better world.
 - 🎓 Finalist of **TCS CodeVita 12** (Top 17 worldwide, first Ecuadorian finalist in a world programming final of any kind ever).
