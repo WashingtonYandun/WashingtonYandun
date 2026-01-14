@@ -2,7 +2,7 @@
 <p align="center">
   Welcome to my GitHub profile! I'm a Software Engineer passionate about <b>learning, artificial intelligence, and building systems that matter</b>.
 </p>
-<p align="center">🌱 My everyday goal is to learn as much as I can.</p>
+<p align="center">🌱 My everyday goal is to learn as much as I can and never stop.</p>
 
 ---
 
