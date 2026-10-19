@@ -21,7 +21,7 @@
 - 🧬 Artificial Intelligence (LLMs, GANs, Mamba)
 - ⚙️ Modeling and Simulation
 - 💰 Finances
-- 🧮 Mathematics
+- 🧮 Math
 - 🌐 Software Engineering & Scalable Systems
 
 ---
