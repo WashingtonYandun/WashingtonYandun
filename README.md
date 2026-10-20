@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Washington Yandún</h1>
 <p align="center">
-  Welcome to my GitHub profile! I'm a Software Engineer passionate about <b>learning, artificial intelligence, and building systems that matter</b>.
+  Welcome to my GitHub profile! I'm passionate about <b>learning, artificial intelligence, and building systems that matter</b>.
 </p>
 <p align="center">🌱 My everyday goal is to learn as much as I can and never stop.</p>
 
