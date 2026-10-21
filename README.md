@@ -18,11 +18,11 @@
 
 ### 🤖 I am strongly interested in
 
-- 🧬 Artificial Intelligence (LLMs, GANs, Mamba)
+- 🧬 Artificial Intelligence (LLMs, GANs, Mamba): Working on compacting knowledge for llms
 - ⚙️ Modeling and Simulation
 - 💰 Finances
 - 🧮 Math
-- 🌐 Software Engineering & Scalable Systems
+- 🌐 Software Engineering & Scalable Systems: Working on the Wysna Programming Language
 
 ---
 
