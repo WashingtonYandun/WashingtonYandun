@@ -22,7 +22,7 @@
 - ⚙️ Modeling and Simulation
 - 💰 Finances
 - 🧮 Math
-- 🌐 Software Engineering & Scalable Systems: Working on the Wysna Programming Language
+- 🌐 Software Engineering & Scalable Systems: Working on the [Wysna](https://github.com/WashingtonYandun/Wysna) Programming Language
 
 ---
 
