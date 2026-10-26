@@ -16,13 +16,15 @@
 
 ---
 
+https://wysna.wysofia.com/
+
 ### 🤖 I am strongly interested in
 
 - 🧬 Artificial Intelligence (LLMs, GANs, Mamba): Working on compacting knowledge for llms
 - ⚙️ Modeling and Simulation
 - 💰 Finances
 - 🧮 Math
-- 🌐 Software Engineering & Scalable Systems: Working on the [Wysna](https://github.com/WashingtonYandun/Wysna) Programming Language
+- 🌐 Software Engineering & Scalable Systems: Working on the [Wysna](https://github.com/WashingtonYandun/Wysna) Programming Language, you also can have a look to the [Handbook](https://wysna.wysofia.com/)
 
 ---
 
