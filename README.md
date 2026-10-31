@@ -20,7 +20,7 @@ https://wysna.wysofia.com/
 
 ### 🤖 I am strongly interested in
 
-- 🧬 Artificial Intelligence (LLMs, GANs, Mamba): Working on compacting knowledge for llms
+- 🧬 Artificial Intelligence (LLMs, Mamba): Working on compacting knowledge for llms
 - ⚙️ Modeling and Simulation
 - 💰 Finances
 - 🧮 Math
